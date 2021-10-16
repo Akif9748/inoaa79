@@ -6,11 +6,4 @@
 </p>
 
 
-## Github Stats
 
-![GitHub metrics](https://metrics.lecoq.io/KaptanINO?languages=1&gists=1&followup=1)
-
-![visits](https://komarev.com/ghpvc/?username=KaptanINO)
-
-##  Discord Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/655324771390717992)](https://discord.com/users/655324771390717992)
