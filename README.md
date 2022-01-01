@@ -12,6 +12,6 @@ About Me 😊
 - 💬 Ask me about Python
 - 📫 How to reach me: tukankusu007@gmail.com
 - 😄 Pronouns: tukan, ino
-- ⚡ Fun fact: T3 Foundation Student
+- ⚡ Job: Student, Deneyap Mezunlar Platformu Discord Manager
 
   </p>
