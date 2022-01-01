@@ -79,5 +79,4 @@ I'm currently using **Windows 11 Insider Preview** and **PixelExperience**.
 I'm currently using **Edge**.
 
 ## Contact
-* [![Camroku](https://camroku.xyz/badge/camroku)](https://inoaa.com)(curently down)
 * [![Email](https://camroku.xyz/badge/email)](mailto:inoaa@inoaa.space)
