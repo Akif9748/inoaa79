@@ -6,16 +6,16 @@
 ## Stats
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=KaptanINO&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&custom_title=inoaa79's+GitHub+Stats"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=inoaa79&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&custom_title=inoaa79's+GitHub+Stats"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-      <img width="49%" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=KaptanINO&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=262626&stroke=616BBC00&sideLabels=BCBCBC&currStreakLabel=BCBCBC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F875F&ring=AF5F5F&fire=AF5F5F"/>
+      <img width="49%" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=inoaa79&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=262626&stroke=616BBC00&sideLabels=BCBCBC&currStreakLabel=BCBCBC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F875F&ring=AF5F5F&fire=AF5F5F"/>
     </a>
 </div>
 
 ## Pins
 ![Python](https://camroku.xyz/badge/python)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=KaptanINO&hide_border=true&theme=apprentice&repo=node-arduino-system-info)](https://github.com/KaptanINO/node-arduino-system-info)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=inoaa79&hide_border=true&theme=apprentice&repo=node-arduino-system-info)](https://github.com/inoaa79/node-arduino-system-info)
 
 ## Languages I Know
 * ![C++](https://camroku.xyz/badge/cpp)
