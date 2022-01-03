@@ -17,6 +17,8 @@
 ![Python](https://camroku.xyz/badge/python)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=inoaa79&hide_border=true&theme=apprentice&repo=node-arduino-system-info)](https://github.com/inoaa79/node-arduino-system-info)
 
+![Shell Script](https://camroku.xyz/badge/sh)<br/>
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=OgnitorenKs&hide_border=true&theme=apprentice&repo=OgnitorenKs.Toolbox)](https://github.com/OgnitorenKs/OgnitorenKs.Toolbox)
 ## Languages I Know
 * ![C++](https://camroku.xyz/badge/cpp)
 * ![Python](https://camroku.xyz/badge/python)
